@@ -1,3 +1,3 @@
-# marit-scala-test
+# markit-scala-test
 
 Type mvn clean test
